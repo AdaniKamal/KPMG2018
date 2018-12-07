@@ -8,6 +8,7 @@ We are given a bear image.
 Figure 1 Inn0c3nt_B34r
 
 1.	strings
+
 We try ‘strings’ it in Parrot Terminal
 
 ![image](https://user-images.githubusercontent.com/44063862/49643041-a4db5c80-fa4f-11e8-9e05-53bcb4ede22f.png)
